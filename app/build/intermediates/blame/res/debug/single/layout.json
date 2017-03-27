@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android Studio WorkSpace\\FacebookLikeChathead-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Studio WorkSpace\\FacebookLikeChathead-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio WorkSpace\\facebookLikeChatHead\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android Studio WorkSpace\\facebookLikeChatHead\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
